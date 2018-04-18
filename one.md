@@ -3,6 +3,13 @@
 ### query_result 출력결과
 <pre>
 None
+None
+None
+None
+None
+.
+.
+.
 </pre>
 
 ### modem_list 출력결과
