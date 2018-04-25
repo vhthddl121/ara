@@ -1,15 +1,8 @@
 ### 소스분석
 
-### query_result 출력결과
+### query_result 출력결과 -> 4/25 변경 완료
 <pre>
-None
-None
-None
-None
-None
-.
-.
-.
+[{u'metric': u'rc05_excel_copy_tag_v11', u'aggregateTags': [], u'dps': {u'1467299700': 0.8870000243186951}, u'tags': {u'load': u'None', u'building': u'factory', u'modem_num': u'01222799986', u'company': u'smallcompany', u'detail': u'metal', u'device_type': u'led', u'holiday': u'0'}}]
 </pre>
 
 ### modem_list 출력결과
